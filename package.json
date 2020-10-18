@@ -1,7 +1,7 @@
 {
   "name": "Layer7-MultiBypass",
   "version": "0.0.1",
-  "main": "index.js",
+  "main": "method.js",
   "author": "RootSec",
   "contributors": [
     {
